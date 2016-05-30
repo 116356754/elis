@@ -1,0 +1,23 @@
+{
+  "name": "elis",
+  "version": "1.0.0",
+  "description": "get environment variable in electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/116356754/elis.git"
+  },
+  "keywords": [
+    "electron",
+    "is"
+  ],
+  "author": "wangky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/116356754/elis/issues"
+  },
+  "homepage": "https://github.com/116356754/elis#readme"
+}
